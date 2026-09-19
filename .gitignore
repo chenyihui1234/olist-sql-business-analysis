@@ -1,0 +1,13 @@
+# 数据文件（121MB，第三方公开数据集，不入库）
+data/
+__pycache__/
+*.pyc
+
+# 含明文密码的本地环境脚本
+*.cmd
+my-3307.ini
+mysql_reset_pwd.sql
+reset_log.txt
+
+# 参考答案
+00_答案_卡住再看.sql
